@@ -98,41 +98,46 @@ Use your **right hand** in front of the webcam.
 
 ### Move Mouse
 
-* Index finger: **UP**
-* Middle finger: **UP**
-* Thumb: **OPEN / STRAIGHT**
-* Remaining fingers: **DOWN**
+**Gesture:** Raise your **index and middle fingers** while keeping your **thumb straight**.
 
-Move your hand to control the cursor.
+**Action:** Move your hand in the desired direction to control the mouse cursor.
 
-### Stop Mouse
+**Image:**
+<img  alt="Cursor Motion" src="https://github.com/user-attachments/assets/fa662a1b-3625-44cb-a36b-cf0ef476c5cb" />
 
-* Index finger: **UP**
-* Middle finger: **UP**
-* Thumb: **CLOSED**
 
-The cursor stops moving.
+### Stop Mouse Movement
+
+**Gesture:** Keep your **index and middle fingers up** and **close your thumb**.
+
+**Action:** Stops the cursor from following your hand.
+
 
 ### Left Click
 
-* Index finger: **BENT / DOWN**
-* Middle finger: **UP**
-* Thumb: **CLOSED**
-* Remaining fingers: **DOWN**
+**Gesture:** Keep your **middle finger up**, bend your **index finger**, and close your **thumb**. Keep the remaining fingers down.
+
+**Action:** Performs a left mouse click.
+
+**Image:**
+<img alt="Left Click" src="https://github.com/user-attachments/assets/b007b0e1-712a-46c1-92d1-d9762ab3ef64" />
+
 
 ### Right Click
 
-* Index finger: **UP**
-* Middle finger: **DOWN**
-* Thumb: **CLOSED**
-* Remaining fingers: **DOWN**
+**Gesture:** Keep your **index finger up** and put your **middle finger down**, and close your **thumb**. Keep the remaining fingers down.
+
+**Action:** Performs a right mouse click.
+
+**Image:**
+<img  alt="Right Click" src="https://github.com/user-attachments/assets/323d7c96-3a2b-445e-8c8f-a3c9ae250935" />
+
 
 ### Double Click
 
-* Index finger: **DOWN**
-* Middle finger: **DOWN**
-* Thumb: **CLOSED**
-* Remaining fingers: **DOWN**
+**Gesture:** Keep both your **index and middle fingers down**, and close your **thumb**. Keep the remaining fingers down.
+
+**Action:** Performs a double left click.
 
 ---
 

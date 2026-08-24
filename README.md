@@ -105,6 +105,7 @@ Use your **right hand** in front of the webcam.
 **Image:**
 <img  alt="Cursor Motion" src="https://github.com/user-attachments/assets/fa662a1b-3625-44cb-a36b-cf0ef476c5cb" />
 
+---
 
 ### Stop Mouse Movement
 
@@ -112,6 +113,7 @@ Use your **right hand** in front of the webcam.
 
 **Action:** Stops the cursor from following your hand.
 
+---
 
 ### Left Click
 
@@ -122,6 +124,7 @@ Use your **right hand** in front of the webcam.
 **Image:**
 <img alt="Left Click" src="https://github.com/user-attachments/assets/b007b0e1-712a-46c1-92d1-d9762ab3ef64" />
 
+---
 
 ### Right Click
 
@@ -132,6 +135,7 @@ Use your **right hand** in front of the webcam.
 **Image:**
 <img  alt="Right Click" src="https://github.com/user-attachments/assets/323d7c96-3a2b-445e-8c8f-a3c9ae250935" />
 
+---
 
 ### Double Click
 

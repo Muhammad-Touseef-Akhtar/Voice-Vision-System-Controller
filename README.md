@@ -182,7 +182,7 @@ pip install opencv-python mediapipe pyaudio numpy pyautogui vosk
 
 # 7. Windows Firewall
 
-During the first execution of `App_Host.exe`, Windows may display a **Windows Security Alert**.
+During the first execution of `.exe file`, Windows may display a **Windows Security Alert**.
 
 If prompted:
 
